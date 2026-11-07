@@ -7,5 +7,6 @@ void pedestrianMode();
 void emergencyMode();
 void statistics();
 void previousRecords();
+void saveRecord();
 
 #endif
