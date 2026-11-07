@@ -23,6 +23,7 @@ int main()
         {
             case 1:
                 enterDensity();
+                saveRecord();
                 break;
 
             case 2:
@@ -46,7 +47,7 @@ int main()
                 break;
 
             case 7:
-                printf("\nExiting program...\n");
+                printf("\nThank you for using Smart Traffis Signal Management System!\n");
                 break;
 
             default:
